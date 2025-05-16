@@ -1,0 +1,34 @@
+D:\CongNgheNET\Kết Nối SQL SERVER\Kết Nối SQL SERVER\bin\Debug\Kết Nối SQL SERVER.exe.config
+D:\CongNgheNET\Kết Nối SQL SERVER\Kết Nối SQL SERVER\bin\Debug\Kết Nối SQL SERVER.exe
+D:\CongNgheNET\Kết Nối SQL SERVER\Kết Nối SQL SERVER\bin\Debug\Kết Nối SQL SERVER.pdb
+D:\CongNgheNET\Kết Nối SQL SERVER\Kết Nối SQL SERVER\obj\Debug\Kết Nối SQL SERVER.csproj.AssemblyReference.cache
+D:\CongNgheNET\Kết Nối SQL SERVER\Kết Nối SQL SERVER\obj\Debug\Kết_Nối_SQL_SERVER.Properties.Resources.resources
+D:\CongNgheNET\Kết Nối SQL SERVER\Kết Nối SQL SERVER\obj\Debug\Kết Nối SQL SERVER.csproj.GenerateResource.cache
+D:\CongNgheNET\Kết Nối SQL SERVER\Kết Nối SQL SERVER\obj\Debug\Kết Nối SQL SERVER.csproj.CoreCompileInputs.cache
+D:\CongNgheNET\Kết Nối SQL SERVER\Kết Nối SQL SERVER\obj\Debug\Kết Nối SQL SERVER.exe
+D:\CongNgheNET\Kết Nối SQL SERVER\Kết Nối SQL SERVER\obj\Debug\Kết Nối SQL SERVER.pdb
+D:\CongNgheNET\Kết Nối SQL SERVER\Kết Nối SQL SERVER\obj\Debug\Kết_Nối_SQL_SERVER.PhongBan.resources
+D:\CongNgheNET\Kết Nối SQL SERVER\Kết Nối SQL SERVER\obj\Debug\Kết_Nối_SQL_SERVER.ChucVu.resources
+D:\CongNgheNET\Kết Nối SQL SERVER\Kết Nối SQL SERVER\obj\Debug\Kết_Nối_SQL_SERVER.NhanVien.resources
+D:\CongNgheNET\Kết Nối SQL SERVER\Kết Nối SQL SERVER\obj\Debug\Kết_Nối_SQL_SERVER.Chamcong.resources
+D:\CongNgheNET\Kết Nối SQL SERVER\Kết Nối SQL SERVER\obj\Debug\Kết_Nối_SQL_SERVER.Khenthuong.resources
+D:\CongNgheNET\Kết Nối SQL SERVER\Kết Nối SQL SERVER\obj\Debug\Kết_Nối_SQL_SERVER.Tienluong.resources
+D:\CongNgheNET\Kết Nối SQL SERVER\Kết Nối SQL SERVER\obj\Debug\Kết_Nối_SQL_SERVER.DangNhap.resources
+D:\CongNgheNET\Kết Nối SQL SERVER\Kết Nối SQL SERVER\obj\Debug\Kết_Nối_SQL_SERVER.TrangChu.resources
+F:\Kết Nối SQL SERVER\bin\Debug\Kết Nối SQL SERVER.exe.config
+F:\Kết Nối SQL SERVER\bin\Debug\Kết Nối SQL SERVER.exe
+F:\Kết Nối SQL SERVER\bin\Debug\Kết Nối SQL SERVER.pdb
+F:\Kết Nối SQL SERVER\obj\Debug\Kết Nối SQL SERVER.csproj.AssemblyReference.cache
+F:\Kết Nối SQL SERVER\obj\Debug\Kết_Nối_SQL_SERVER.Chamcong.resources
+F:\Kết Nối SQL SERVER\obj\Debug\Kết_Nối_SQL_SERVER.ChucVu.resources
+F:\Kết Nối SQL SERVER\obj\Debug\Kết_Nối_SQL_SERVER.DangNhap.resources
+F:\Kết Nối SQL SERVER\obj\Debug\Kết_Nối_SQL_SERVER.Khenthuong.resources
+F:\Kết Nối SQL SERVER\obj\Debug\Kết_Nối_SQL_SERVER.NhanVien.resources
+F:\Kết Nối SQL SERVER\obj\Debug\Kết_Nối_SQL_SERVER.PhongBan.resources
+F:\Kết Nối SQL SERVER\obj\Debug\Kết_Nối_SQL_SERVER.Properties.Resources.resources
+F:\Kết Nối SQL SERVER\obj\Debug\Kết_Nối_SQL_SERVER.Tienluong.resources
+F:\Kết Nối SQL SERVER\obj\Debug\Kết_Nối_SQL_SERVER.TrangChu.resources
+F:\Kết Nối SQL SERVER\obj\Debug\Kết Nối SQL SERVER.csproj.GenerateResource.cache
+F:\Kết Nối SQL SERVER\obj\Debug\Kết Nối SQL SERVER.csproj.CoreCompileInputs.cache
+F:\Kết Nối SQL SERVER\obj\Debug\Kết Nối SQL SERVER.exe
+F:\Kết Nối SQL SERVER\obj\Debug\Kết Nối SQL SERVER.pdb
